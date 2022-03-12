@@ -2,7 +2,7 @@
   "name": "Dogz",
   "short_name": "Dogz",
   "lang": "pt-BR",
-  "start_url": "/",
+  "start_url": "/dogz",
   "scope": "/dogz",
   "display": "minimal-ui",
   "theme_color": "#0ea5e9",
