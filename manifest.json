@@ -1,0 +1,31 @@
+{
+  "name": "Dogz",
+  "short_name": "Dogz",
+  "lang": "pt-BR",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0ea5e9",
+  "description": "Controle alimentação dos pets",
+  "icons": [
+    {
+      "src": "/dogz/images/dog-64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "/dogz/images/dog-128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/dogz/images/dog-256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/dogz/images/dog-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
