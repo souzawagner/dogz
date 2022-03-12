@@ -3,7 +3,7 @@
   "short_name": "Dogz",
   "lang": "pt-BR",
   "start_url": "/dogz",
-  "display": "standalone",
+  "display": "fullscreen",
   "background_color": "#0ea5e9",
   "description": "Controle alimentação dos pets",
   "icons": [
