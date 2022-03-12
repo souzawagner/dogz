@@ -6,9 +6,9 @@ class MyDocument extends Document {
 		return (
 			<Html className={'dark h-full'} lang={'pt-br'}>
 				<Head>
-					<link rel="manifest" href="/manifest.json" />
-					<link rel="apple-touch-icon" href="/logo-128x128.png" />
-					<link rel="theme-color" href="#fff" />
+					<link rel="manifest" href="/dogz/manifest.json" />
+					<link rel="apple-touch-icon" href="/dogz/image/dog-128.png" />
+					<link rel="theme-color" href="#0ea5e9" />
 				</Head>
 
 				<body className={'dark:bg-zinc-900 dark:text-gray-200 text-lg h-full'}>
@@ -20,7 +20,7 @@ class MyDocument extends Document {
 						{/* eslint-disable-next-line @next/next/no-img-element */}
 						<img
 							alt="Uma imagem de cachorro com seu dono"
-							src="/images/background.svg"
+							src="/dogz/images/background.svg"
 						/>
 					</div>
 					<NextScript />

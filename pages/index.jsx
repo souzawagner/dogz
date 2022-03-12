@@ -12,7 +12,8 @@ export default function Homepage() {
       <Head>
         <title>mydogz - comida dos pets</title>
         <meta name="description" content="Controle alimentação dos pets" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/dogz/favicon.ico" />
+        <link rel="canonical" href="https://souzawagner.github.io/dogz/" />
       </Head>
 
       <main className={'h-full'}>

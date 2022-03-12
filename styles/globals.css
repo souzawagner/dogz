@@ -13,4 +13,9 @@ body {
 
 #__next {
     height: 100%;
+    z-index: 1;
+}
+
+.site-background {
+    z-index: -1;
 }
